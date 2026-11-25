@@ -1,0 +1,7 @@
+{
+ "name": "Fall",
+ "author": "ThinkTank4n6",
+ "description": "Warm autumn browns, rusts and oranges with a touch of red, standing still.",
+ "tags": ["fall", "autumn", "thanksgiving", "orange", "brown"],
+ "pattern": {"label": "Fall", "colors": ["#341202", "#561003", "#FF6300", "#FF0000", "#FF3C00", "#561003", "#B42F00", "#FF3C00"], "counts": [4, 4, 4, 1, 3, 4, 4, 4], "custom_mode": 0, "speed": 128, "brightness": 139, "exact_colors": true}
+}
