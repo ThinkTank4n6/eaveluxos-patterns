@@ -1,0 +1,36 @@
+{
+  "format": "eaveluxos",
+  "version": "4.25.0",
+  "exported": "2026-11-25T09:40:00",
+  "settings": {
+    "effects": {
+      "fall": {
+        "label": "Fall",
+        "colors": [
+          "#341202",
+          "#561003",
+          "#FF6300",
+          "#FF0000",
+          "#FF3C00",
+          "#561003",
+          "#B42F00",
+          "#FF3C00"
+        ],
+        "counts": [
+          4,
+          4,
+          4,
+          1,
+          3,
+          4,
+          4,
+          4
+        ],
+        "custom_mode": 0,
+        "speed": 128,
+        "brightness": 139,
+        "exact_colors": true
+      }
+    }
+  }
+}
