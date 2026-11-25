@@ -17,6 +17,27 @@
    ]
   },
   {
+   "id": "fall",
+   "name": "Fall",
+   "author": "ThinkTank4n6",
+   "description": "Warm autumn browns, rusts and oranges with a touch of red, standing still.",
+   "tags": [
+    "fall",
+    "autumn",
+    "thanksgiving",
+    "orange",
+    "brown"
+   ],
+   "colors": [
+    "#341202",
+    "#561003",
+    "#FF6300",
+    "#FF0000",
+    "#FF3C00",
+    "#B42F00"
+   ]
+  },
+  {
    "id": "fourth-of-july-sparkle",
    "name": "Fourth of July sparkle",
    "author": "ThinkTank4n6",
