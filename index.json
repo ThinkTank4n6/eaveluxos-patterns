@@ -70,6 +70,52 @@
    ]
   },
   {
+   "id": "md-xmas-1",
+   "name": "MD Xmas 1",
+   "author": "mkdriskell",
+   "description": "Classic Christmas bulb colors",
+   "tags": [
+    "christmas",
+    "classic"
+   ],
+   "colors": [
+    "#FF0000",
+    "#FFFF00",
+    "#00FF00",
+    "#0000FF"
+   ]
+  },
+  {
+   "id": "md-xmas-2",
+   "name": "MD Xmas 2",
+   "author": "mkdriskell",
+   "description": "Basic red and green comet pattern",
+   "tags": [
+    "christmas",
+    "comet"
+   ],
+   "colors": [
+    "#FF0000",
+    "#00FF00"
+   ]
+  },
+  {
+   "id": "md-xmas-3",
+   "name": "MD Xmas 3",
+   "author": "mkdriskell",
+   "description": "Christmas Candy Cane Chase",
+   "tags": [
+    "christmas",
+    "candy cane",
+    "chase"
+   ],
+   "colors": [
+    "#FF0000",
+    "#FFFFFF",
+    "#000000"
+   ]
+  },
+  {
    "id": "warm-architectural",
    "name": "Warm architectural white",
    "author": "ThinkTank4n6",
