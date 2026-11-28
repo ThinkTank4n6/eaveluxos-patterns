@@ -1,0 +1,7 @@
+{
+ "name": "MD Xmas 1",
+ "author": "mkdriskell",
+ "description": "Classic Christmas bulb colors",
+ "tags": ["christmas", "classic"],
+ "pattern": {"label": "MD Xmas 1", "colors": ["#FF0000", "#FFFF00", "#00FF00", "#FFFF00", "#0000FF", "#FFFF00"], "counts": [5, 2, 5, 2, 5, 2], "custom_mode": 7, "speed": 120, "brightness": 255, "exact_colors": true}
+}

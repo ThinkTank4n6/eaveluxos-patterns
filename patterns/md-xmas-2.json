@@ -1,0 +1,7 @@
+{
+ "name": "MD Xmas 2",
+ "author": "mkdriskell",
+ "description": "Basic red and green comet pattern",
+ "tags": ["christmas", "comet"],
+ "pattern": {"label": "MD Xmas 2", "colors": ["#FF0000", "#00FF00"], "counts": [5, 5], "custom_mode": 8, "speed": 127, "brightness": 255, "exact_colors": true}
+}

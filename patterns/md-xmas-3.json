@@ -1,0 +1,7 @@
+{
+ "name": "MD Xmas 3",
+ "author": "mkdriskell",
+ "description": "Christmas Candy Cane Chase",
+ "tags": ["christmas", "candy cane", "chase"],
+ "pattern": {"label": "MD Xmas 3", "colors": ["#FF0000", "#FFFFFF", "#000000"], "counts": [10, 10, 20], "custom_mode": 2, "speed": 190, "brightness": 255, "exact_colors": true}
+}
